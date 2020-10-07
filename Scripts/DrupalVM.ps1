@@ -1,5 +1,0 @@
-﻿
-
-
-New-VM -Name Zaphod
-
